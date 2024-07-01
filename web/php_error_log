@@ -1,0 +1,446 @@
+[29-Jun-2024 14:14:01 America/Lima] PHP Warning:  Undefined array key "resetPasswordUser" in C:\xampp\htdocs\ecommerce\web\controllers\users.controller.php on line 350
+[29-Jun-2024 18:12:03 America/Lima] PHP Warning:  include(pedidos/pedidos.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php on line 56
+[29-Jun-2024 18:12:03 America/Lima] PHP Warning:  include(): Failed opening 'pedidos/pedidos.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php on line 56
+[29-Jun-2024 18:12:05 America/Lima] PHP Warning:  include(pedidos/pedidos.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php on line 56
+[29-Jun-2024 18:12:05 America/Lima] PHP Warning:  include(): Failed opening 'pedidos/pedidos.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php on line 56
+[29-Jun-2024 18:37:37 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:37:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:23 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:25 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:27 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:28 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:32 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:38 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:38:59 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:10 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:56 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:39:58 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:40:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:40:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:40:01 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:40:01 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:40:04 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:42:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
+[29-Jun-2024 18:42:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method PaymentsController::editOrder() in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php:198
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\pedidos.php(24): include()
+#1 C:\xampp\htdocs\ecommerce\web\views\pages\admin\admin.php(56): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce\web\views\template.php(453): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce\web\controllers\template.controller.php(14): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce\web\index.php(24): TemplateController->index()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce\web\views\pages\admin\pedidos\modules\listado.php on line 198
